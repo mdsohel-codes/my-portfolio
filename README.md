@@ -40,4 +40,6 @@ These skills and related projects will be added in future updates of this portfo
 
 ---
 
-⭐ This portfolio will be updated regularly as I progress in my web development journey.
+⭐ This portfolio will be updated regularly as I progress in my web development journey. 
+
+will start working properly after upgrading my computer. 
